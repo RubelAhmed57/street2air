@@ -1,5 +1,3 @@
-Street2Air Dataset and Code
-
 Street2Air: A Framework for Synthesizing Aerial Vehicle Views from Ground Images
 
 Authors: Md Rubel Ahmed, Fazle Rahat, M Shifat Hossain, Sumit Kumar Jha, Rickard Ewetz
@@ -11,10 +9,7 @@ Annotated aerial view images are often missing from fine-grained vehicle type cl
 In this repository we share a curated subset of the Street2Air data and the scripts used to generate/prepare examples for sharing. The full dataset (large archives and 3D assets) is available on request or via the project release (see `DATASET_CONTENTS.md` for hosting recommendations).
 
 Included in this repo
-- `README.md` — this file
 - `CITATION.cff` — citation metadata for this dataset
-- `LICENSE` — project license (MIT)
-- `.gitignore` — recommended ignores for the repo
 - `DATASET_CONTENTS.md` — what to include in the repo vs external hosting
 - `scripts/prepare_dataset.py` — tiny helper to inspect and prepare example data
 - `multiview scripts/`, `street views/`, `top views/`, `trellis artifacts/` — example project folders (may be present locally)
