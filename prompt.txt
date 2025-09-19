@@ -1,0 +1,3 @@
+I have uploaded a bus image. use this bus stopped by a tree. the bus is in the center for frame and complete right side of the is visible.  No other cars in the scene. the camera is focus on the side view of the bus only. Focus does not change. bus is parked near a bus stop. 
+
+I have uploaded a red sedan image. use this red sedan to make it running on some empty road. the sedan is in the center for frame and complete right side of the is visible.  No other cars in the scene. the camera is focus on the side view of the sedan only. Focus does not change.

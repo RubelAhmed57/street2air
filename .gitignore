@@ -1,0 +1,12 @@
+# Dataset and large files
+*.tar.gz
+*.tgz
+*.glb
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# macOS
+.DS_Store

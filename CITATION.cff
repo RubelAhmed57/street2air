@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+title: "Street2Air: A Framework for Synthesizing Aerial Vehicle Views from Ground Images"
+authors:
+  - family-names: "Ahmed"
+    given-names: "Md Rubel"
+    email: "mahmed@latech.edu"
+    affiliation: "Louisiana Tech University"
+  - family-names: "Rahat"
+    given-names: "Fazle"
+    email: "fazle.rahat@ucf.edu"
+    affiliation: "University of Central Florida"
+  - family-names: "Hossain"
+    given-names: "M Shifat"
+    email: "mshifat.hossain@ucf.edu"
+    affiliation: "University of Central Florida"
+  - family-names: "Jha"
+    given-names: "Sumit Kumar"
+    email: "jha@cs.fiu.edu"
+    affiliation: "Florida International University"
+  - family-names: "Ewetz"
+    given-names: "Rickard"
+    email: "rewetz@ufl.edu"
+    affiliation: "University of Florida"
+version: "0.1.0"
+date-released: 2025-09-19
+license: "CC-BY-4.0"
+repository:
+  type: "git"
+  url: "https://github.com/<your-org>/street2air"
+how-to-cite: |
+  Ahmed, M.R., Rahat, F., Hossain, M.S., Jha, S.K., Ewetz, R. (2025). Street2Air: A Framework for Synthesizing Aerial Vehicle Views from Ground Images. Proceedings of the 24th International Conference on Machine Learning and Applications.
